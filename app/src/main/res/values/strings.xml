@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ElderlyScan</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- bt_dialog -->
+    <string name="bt_title">協尋訊息</string>
+    <string name="bt_message">是否要幫忙協尋老人，並開啟藍芽?</string>
+</resources>
